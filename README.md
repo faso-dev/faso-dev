@@ -23,7 +23,7 @@
 
 ## About Me
 - 🔭 I’m currently working as a Full-Stack Software Engineer at [DECLIC](https://declic.africa/) 
-- 🌱 I’m currently following the ALX Full-Stack Software Engineering Program at [ALX](https://alx.co.za/)
+- 🌱 I’m currently following the ALX Full-Stack Software Engineering Program at [ALX](https://www.alxafrica.com/software-engineering-2022/)
 - 👯 I’m looking to collaborate on any open source project that can help me improve my skills
 - 🤔 I’m looking for help with finding a job as a Full-Stack Software Engineer or a Full-Stack Web Developer in remote
 - 💬 Ask me about anything
@@ -32,22 +32,36 @@
 - ⚡ Fun fact: I love to create humorous memes with code
 - 📝 [Resume](mailto:jeromeonadja28@gmail.com)
 
-## My Skills
-- 🐍 Python : +2 years
-- 🐘 PHP  : +4 years
-- 🌐 HTML, CSS, JavaScript, TypeScript : +4 years
+## Programming Languages
+- <img src="./assets/images/php.png" width="20" height="20"  alt="PHP"/> PHP : +5 years
+- <img src="./assets/images/javascript.svg" width="20" height="20"  alt="JavaScript"/> JavaScript : +4 years
+- <img src="./assets/images/typescript.svg" width="20" height="20"  alt="TypeScript"/> TypeScript : +4 years
+- <img src="./assets/images/python.svg" width="20" height="20"  alt="Python"/> Python : +3 years
+- <img src="./assets/images/c.svg" width="20" height="20"  alt="C"/> C : +2 years
 
-## Database and ORM
-- 🐬 MySQL/MariaDB : +4 years
-- 🐬 PostgreSQL : +2 years
-- 🐘 Firebase : +2 years
+## Back-End frameworks
+- <img src="./assets/images/symfony.svg" width="20" height="20"  alt="Symfony"/> Symfony : +4 years
+- <img src="./assets/images/laravel.svg" width="20" height="20"  alt="Laravel"/> Laravel : +3 years
+- <img src="./assets/images/flask.svg" width="20" height="20"  alt="Flask"/> Flask : +2 years
+- <img src="./assets/images/adonisjs.svg" width="20" height="20"  alt="AdonisJS"/> AdonisJS : +1 year
 
-## Frameworks back-end
-- 🐘 Laravel : +2 years
-- 🐘 Symfony : +3 years
-- 🐍 Flask : +1 years
+## Front-End frameworks
+- <img src="./assets/images/bootstrap.svg" width="20" height="20"  alt="Bootstrap"/> Bootstrap : +4 years
+- <img src="./assets/images/react.svg" width="20" height="20"  alt="React"/> React : +3 years
+- <img src="./assets/images/redux.svg" width="20" height="20"  alt="Redux"/> Redux : +2 years
+- <img src="./assets/images/mui.png" width="20" height="20"  alt="React Material UI"/> React Material UI : +2 years
 
-## Frameworks front-end
-- 🌐 Bootstrap : +4 years
-- 🌐 React.js : +3 years
-- 🌐 React MUI : +1 years
+## Databases and ORM
+- <img src="./assets/images/mysql.svg" width="20" height="20"  alt="MySQL"/> MySQL/MariaDB : +4 years
+- <img src="./assets/images/postgresql.svg" width="20" height="20"  alt="PostgreSQL"/> PostgreSQL : +3 years
+- <img src="./assets/images/doctrine.png" width="20" height="20"  alt="Doctrine"/> Doctrine : +3 years
+- <img src="./assets/images/sqlalchemy.png" width="20" height="20"  alt="SQLAlchemy"/> SQLAlchemy : +2 years
+
+## IDES
+- <img src="./assets/images/phpstorm.svg" width="20" height="20"  alt="PhpStorm"/> PhpStorm : +4 years
+- <img src="./assets/images/pycharm.svg" width="20" height="20"  alt="PyCharm"/> PyCharm : +3 years
+- <img src="./assets/images/intellij.svg" width="20" height="20"  alt="IntelliJ"/> IntelliJ : +2 years
+- <img src="./assets/images/clion.png" width="20" height="20"  alt="CLion"/> CLion : +1 years
+
+## Tools
+- <img src="./assets/images/git.svg" width="20" height="20"  alt="Git"/> Git : +4 years
