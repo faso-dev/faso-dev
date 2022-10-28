@@ -19,7 +19,7 @@
 - [My Github Profile Stats](#my-github-profile-stats)
 
 ## Hello World! I'm Soanguimpali Clovis Jerôme
-[Soanguimpali Clovis Jerôme](./assets/images/profile.png)
+![Soanguimpali Clovis Jerôme](./assets/images/profile.png)
 
 ## About Me
 - 🔭 I’m currently working as a Full-Stack Software Engineer at [DECLIC](https://declic.africa/) 
