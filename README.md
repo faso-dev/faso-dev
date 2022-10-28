@@ -78,20 +78,26 @@
 ## Operating Systems
 - <img src="./assets/images/linux.png" width="20" height="20"  alt="Linux"/> Linux : +4 years
 
-## My Github Stats
+## Stats
 ![Soanguimpali Clovis Jerôme's GitHub stats](https://github-readme-stats.vercel.app/api?username=faso-dev&show_icons=true&theme=radical)
 
-## My Github Profile Visitors
+## Most Used Languages
+![Soanguimpali Clovis Jerôme's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faso-dev&layout=compact&theme=radical)
+
+## Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=faso-dev)
 
-## My Github Profile Streak Stats
+## Views
+![Profile views](https://gpvc.arturio.dev/faso-dev)
+
+## Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faso-dev&theme=radical)
 
-## My Github Profile Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faso-dev&theme=radical)
-
-## My Github Profile Trophy
+## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=faso-dev&theme=radical)]
 
-## My Github Profile Activity Graph
+## Activity Graph
 ![Soanguimpali Clovis Jerôme's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faso-dev&theme=react-dark)
+
+## Badges
+![GitHub followers](https://img.shields.io/github/followers/faso-dev?style=social)
