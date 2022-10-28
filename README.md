@@ -18,8 +18,8 @@
 - [My Github Profile Top Languages](#my-github-profile-top-languages)
 - [My Github Profile Stats](#my-github-profile-stats)
 
-## Soanguimpali Clovis Jerôme
-[![Soanguimpali Clovis Jerôme](https://raw.githubusercontent.com/soanguimpali/soanguimpali/master/soanguimpali.png)]
+## Hello World! I'm Soanguimpali Clovis Jerôme
+[Soanguimpali Clovis Jerôme](./assets/images/profile.png)
 
 ## About Me
 - 🔭 I’m currently working as a Full-Stack Software Engineer at [DECLIC](https://declic.africa/) 
