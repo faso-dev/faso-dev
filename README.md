@@ -1,6 +1,7 @@
-# Table of Contents
-- [Soanguimpali Clovis Jerôme](#soanguimpali-clovis-jerome)
+## Table of Contents
+- [Welcome](#soanguimpali-clovis-jerome)
 - [About Me](#about-me)
+- [Skills](#skills)
 - [Programming Languages](#programming-languages)
 - [Backend-frameworks](#backend-frameworks)
 - [Frontend-frameworks](#frontend-frameworks)
@@ -8,20 +9,14 @@
 - [IDE and Editors](#ide-and-editors)
 - [Tools](#tools)
 - [Operating Systems](#operating-systems)
-- [My Github Stats](#my-github-stats)
-- [My Github Trophies](#my-github-trophies)
-- [My Github Streak Stats](#my-github-streak-stats)
-- [My Github Activity Graph](#my-github-activity-graph)
-- [My Github Most Used Languages](#my-github-most-used-languages)
-- [My Github Top Languages](#my-github-top-languages)
-- [My Github Profile Views](#my-github-profile-views)
-- [My Github Profile Visitors](#my-github-profile-visitors)
-- [My Github Profile Trophies](#my-github-profile-trophies)
-- [My Github Profile Streak Stats](#my-github-profile-streak-stats)
-- [My Github Profile Activity Graph](#my-github-profile-activity-graph)
-- [My Github Profile Most Used Languages](#my-github-profile-most-used-languages)
-- [My Github Profile Top Languages](#my-github-profile-top-languages)
-- [My Github Profile Stats](#my-github-profile-stats)
+- [Stats](#my-github-stats)
+- [Top languages](#top-languages)
+- [Visitors](#visitors)
+- [Views](#views)
+- [Streak Stats](#streak-stats)
+- [Trophies](#trophies)
+- [Activity Graph](#activity-graph)
+- [Followers](#followers)
 
 ## Hello World! I'm Soanguimpali Clovis Jerôme
 ![Soanguimpali Clovis Jerôme](./assets/images/profile.png)
@@ -36,6 +31,24 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to create humorous memes with code
 - 📝 [Resume](mailto:jeromeonadja28@gmail.com)
+
+## Skills
+- Building RESTful APIs with Node.js, Flask, Laravel, Symfony [x]
+- Building Single Page Applications with React [x]
+- Building Progressive Web Applications with React [x]
+- Working with databases like MySQL, PostgreSQL [x]
+- Writing unit and integration tests with Jest, PHPUnit, Panther, Cypress [x]
+- Working with Git and GitHub [x]
+- Working with Docker and Docker Compose [x]
+- Working with Linux and shell scripting [x]
+- Working with HeroKu [x]
+- Working with Twilio [x]
+- Integrating third-party APIs [x]
+- Integrating mockups with HTML, CSS, SAAS, Bootstrap, JavaScript, Typescript [x]
+- Code refactoring and optimization [x]
+- Writing clean and maintainable code [x]
+- Writing clean and maintainable documentation [x]
+- more...
 
 ## Programming Languages
 - <img src="./assets/images/php.png" width="20" height="20"  alt="PHP"/> PHP : +5 years
@@ -81,7 +94,7 @@
 ## Stats
 ![Soanguimpali Clovis Jerôme's GitHub stats](https://github-readme-stats.vercel.app/api?username=faso-dev&show_icons=true&theme=radical)
 
-## Most Used Languages
+## Top languages
 ![Soanguimpali Clovis Jerôme's GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faso-dev&layout=compact&theme=radical)
 
 ## Visitors
@@ -99,5 +112,5 @@
 ## Activity Graph
 ![Soanguimpali Clovis Jerôme's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faso-dev&theme=react-dark)
 
-## Badges
+## Followers
 ![GitHub followers](https://img.shields.io/github/followers/faso-dev?style=social)
