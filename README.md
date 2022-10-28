@@ -1,8 +1,13 @@
 # Table of Contents
 - [Soanguimpali Clovis Jerôme](#soanguimpali-clovis-jerome)
 - [About Me](#about-me)
-- [My Skills](#my-skills)
-- [My Projects](#my-projects)
+- [Programming Languages](#programming-languages)
+- [Backend-frameworks](#backend-frameworks)
+- [Frontend-frameworks](#frontend-frameworks)
+- [Databases and ORM](#databases)
+- [IDE and Editors](#ide-and-editors)
+- [Tools](#tools)
+- [Operating Systems](#operating-systems)
 - [My Github Stats](#my-github-stats)
 - [My Github Trophies](#my-github-trophies)
 - [My Github Streak Stats](#my-github-streak-stats)
@@ -57,7 +62,7 @@
 - <img src="./assets/images/doctrine.png" width="20" height="20"  alt="Doctrine"/> Doctrine : +3 years
 - <img src="./assets/images/sqlalchemy.png" width="20" height="20"  alt="SQLAlchemy"/> SQLAlchemy : +2 years
 
-## IDES
+## IDEs and Editors
 - <img src="./assets/images/phpstorm.svg" width="20" height="20"  alt="PhpStorm"/> PhpStorm : +4 years
 - <img src="./assets/images/pycharm.svg" width="20" height="20"  alt="PyCharm"/> PyCharm : +3 years
 - <img src="./assets/images/intellij.svg" width="20" height="20"  alt="IntelliJ"/> IntelliJ : +2 years
@@ -65,3 +70,28 @@
 
 ## Tools
 - <img src="./assets/images/git.svg" width="20" height="20"  alt="Git"/> Git : +4 years
+- <img src="./assets/images/github.svg" width="20" height="20"  alt="GitHub"/> GitHub : +4 years
+- <img src="./assets/images/heroku.svg" width="20" height="20"  alt="Heroku"/> Heroku : +4 years
+- <img src="./assets/images/docker.png" width="20" height="20"  alt="Docker"/> Docker : +2 years
+- <img src="./assets/images/bash.svg" width="20" height="20"  alt="Bash"/> Bash/Shell : +4 years
+
+## Operating Systems
+- <img src="./assets/images/linux.png" width="20" height="20"  alt="Linux"/> Linux : +4 years
+
+## My Github Stats
+![Soanguimpali Clovis Jerôme's GitHub stats](https://github-readme-stats.vercel.app/api?username=faso-dev&show_icons=true&theme=radical)
+
+## My Github Profile Visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=faso-dev)
+
+## My Github Profile Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faso-dev&theme=radical)
+
+## My Github Profile Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faso-dev&theme=radical)
+
+## My Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=faso-dev&theme=radical)]
+
+## My Github Profile Activity Graph
+![Soanguimpali Clovis Jerôme's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faso-dev&theme=react-dark)
