@@ -33,22 +33,22 @@
 - 📝 [Resume](mailto:jeromeonadja28@gmail.com)
 
 ## Skills
-- Building RESTful APIs with Node.js, Flask, Laravel, Symfony [x]
-- Building Single Page Applications with React [x]
-- Building Progressive Web Applications with React [x]
-- Working with databases like MySQL, PostgreSQL [x]
-- Writing unit and integration tests with Jest, PHPUnit, Panther, Cypress [x]
-- Working with Git and GitHub [x]
-- Working with Docker and Docker Compose [x]
-- Working with Linux and shell scripting [x]
-- Working with HeroKu [x]
-- Working with Twilio [x]
-- Integrating third-party APIs [x]
-- Integrating mockups with HTML, CSS, SAAS, Bootstrap, JavaScript, Typescript [x]
-- Code refactoring and optimization [x]
-- Writing clean and maintainable code [x]
-- Writing clean and maintainable documentation [x]
-- more...
+- [x] Building RESTful APIs with Node.js, Flask, Laravel, Symfony
+- [x] Building Single Page Applications with React
+- [x] Building Progressive Web Applications with React
+- [x] Working with databases like MySQL, PostgreSQL
+- [x] Working with Git and GitHub
+- [x] Working with Docker and Docker Compose
+- [x] Working with Linux and shell scripting
+- [x] Working with HeroKu
+- [x] Working with Twilio
+- [x] Integrating third-party APIs
+- [x] Integrating mockups with HTML, CSS, SAAS, Bootstrap, JavaScript, Typescript
+- [x] Code refactoring and optimization
+- [x] Writing unit and integration tests with Jest, PHPUnit, Panther, Cypress, Pytest
+- [x] Writing clean and maintainable code
+- [x] Writing clean and maintainable documentation
+- [x] more...
 
 ## Programming Languages
 - <img src="./assets/images/php.png" width="20" height="20"  alt="PHP"/> PHP : +5 years
